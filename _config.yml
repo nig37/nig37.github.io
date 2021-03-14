@@ -2,5 +2,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag 
-<<<<<<< HEAD
 theme: jekyll-theme-merlot
